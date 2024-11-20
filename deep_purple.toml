@@ -1,0 +1,36 @@
+[colors]
+ansi = [
+	 '', # black
+	 '#9d5060', # red
+	 '#49a078', # green
+	 '#d7ba89', # yellow
+	 '#90b0ff', # blue
+	 '#49416d', # purple
+	 '#a1cca5', # cyan
+	 '', # white
+]
+brights = [
+	 '#8c92ac', # black
+	 '', # red
+	 '', # green
+	 '<nil>', # yellow
+	 '', # blue
+	 '#bf79bf', # purple
+	 '<nil>', # cyan
+	 '#e5dada', # white
+]
+
+background = ''
+foreground = ''
+
+cursor_bg = ''
+cursor_border  = ''
+cursor_fg = ''
+
+selection_bg = '<nil>'
+selection_fg = '<nil>'
+
+[colors.indexed]
+
+[metadata]
+name = 'deep_purple' 

@@ -1,0 +1,36 @@
+[colors]
+ansi = [
+	 '#384547', # black
+	 '#dd7383', # red
+	 '#80ddd0', # green
+	 '#ddd180', # yellow
+	 '#80a2eb', # blue
+	 '#b680e5', # purple
+	 '#80c3dd', # cyan
+	 '', # white
+]
+brights = [
+	 '#768789', # black
+	 '', # red
+	 '', # green
+	 '<nil>', # yellow
+	 '', # blue
+	 '#dd73d1', # purple
+	 '<nil>', # cyan
+	 '#e0fbff', # white
+]
+
+background = '#1e2530'
+foreground = '#b8d7db'
+
+cursor_bg = ''
+cursor_border  = ''
+cursor_fg = ''
+
+selection_bg = '<nil>'
+selection_fg = '<nil>'
+
+[colors.indexed]
+
+[metadata]
+name = 'arctic' 

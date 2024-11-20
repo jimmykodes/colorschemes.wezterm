@@ -1,0 +1,36 @@
+[colors]
+ansi = [
+	 '', # black
+	 '', # red
+	 '', # green
+	 '', # yellow
+	 '', # blue
+	 '', # purple
+	 '', # cyan
+	 '', # white
+]
+brights = [
+	 '', # black
+	 '', # red
+	 '', # green
+	 '', # yellow
+	 '', # blue
+	 '', # purple
+	 '', # cyan
+	 '#e5f1ec', # white
+]
+
+background = '#232d36'
+foreground = '#d1e5d9'
+
+cursor_bg = ''
+cursor_border  = ''
+cursor_fg = ''
+
+selection_bg = ''
+selection_fg = ''
+
+[colors.indexed]
+
+[metadata]
+name = 'pokemon' 
