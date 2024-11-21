@@ -7,25 +7,25 @@ ansi = [
 	 '#899eea', # blue
 	 '#9e6b88', # purple
 	 '#66d8f6', # cyan
-	 '', # white
+	 '#fbfbf1', # white
 ]
 brights = [
 	 '#c9c9bf', # black
-	 '', # red
-	 '', # green
+	 '#df6754', # red
+	 '#b2fc79', # green
 	 '<nil>', # yellow
-	 '', # blue
+	 '#93a8f4', # blue
 	 '#ca74d0', # purple
 	 '<nil>', # cyan
 	 '#f5f0aa', # white
 ]
 
-background = ''
+background = '#210e1f'
 foreground = '#f2f3f1'
 
-cursor_bg = ''
-cursor_border  = ''
-cursor_fg = ''
+cursor_bg = '#ca74d0'
+cursor_border  = '#ca74d0'
+cursor_fg = '#210e1f'
 
 selection_bg = '<nil>'
 selection_fg = '<nil>'

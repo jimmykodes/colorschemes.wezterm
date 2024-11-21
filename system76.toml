@@ -13,22 +13,22 @@ brights = [
 	 '#98918d', # black
 	 '#D16969', # red
 	 '#B5CEA8', # green
-	 '', # yellow
+	 '#D7BA7D', # yellow
 	 '#81c8d6', # blue
 	 '#D16D9E', # purple
-	 '', # cyan
+	 '#B5CEA8', # cyan
 	 '#D8DEE9', # white
 ]
 
 background = '#222222'
 foreground = '#cccccc'
 
-cursor_bg = ''
-cursor_border  = ''
-cursor_fg = ''
+cursor_bg = '#7ec589'
+cursor_border  = '#7ec589'
+cursor_fg = '#222222'
 
-selection_bg = ''
-selection_fg = ''
+selection_bg = '#264F78'
+selection_fg = '#222222'
 
 [colors.indexed]
 
