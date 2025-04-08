@@ -1,16 +1,16 @@
 [colors]
 ansi = [
-	 '#434C5E', # black
+	 '#3B4252', # black
 	 '#BF616A', # red
 	 '#8FBCBB', # green
 	 '#EBCB8B', # yellow
 	 '#81A1C1', # blue
 	 '#5E81AC', # purple
 	 '#88C0D0', # cyan
-	 '#ffffff', # white
+	 '#757e90', # white
 ]
 brights = [
-	 '#D8DEE9', # black
+	 '#434C5E', # black
 	 '#d3757e', # red
 	 '#a3d0cf', # green
 	 '#ffdf9f', # yellow
@@ -20,15 +20,15 @@ brights = [
 	 '#ECEFF4', # white
 ]
 
-background = '#3B4252'
+background = '#2E3440'
 foreground = '#E5E9F0'
 
 cursor_bg = '#E5E9F0'
 cursor_border  = '#E5E9F0'
-cursor_fg = '#3B4252'
+cursor_fg = '#2E3440'
 
 selection_bg = '#81A1C1'
-selection_fg = '#3B4252'
+selection_fg = '#2E3440'
 
 [colors.indexed]
 
