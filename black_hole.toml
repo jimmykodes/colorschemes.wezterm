@@ -1,0 +1,36 @@
+[colors]
+ansi = [
+	 '#4f4cae', # black
+	 '#fe5683', # red
+	 '#ffb102', # green
+	 '#fdca33', # yellow
+	 '#5d6aff', # blue
+	 '#b203ea', # purple
+	 '#a9bdff', # cyan
+	 '#b3b0ff', # white
+]
+brights = [
+	 '#817ee0', # black
+	 '#ff6a97', # red
+	 '#ffc516', # green
+	 '#ffde47', # yellow
+	 '#717eff', # blue
+	 '#ab1a95', # purple
+	 '#bdd1ff', # cyan
+	 '#ffffff', # white
+]
+
+background = '#080028'
+foreground = '#fde9c3'
+
+cursor_bg = '#fde9c3'
+cursor_border  = '#fde9c3'
+cursor_fg = '#080028'
+
+selection_bg = '#1c143c'
+selection_fg = '#fde9c3'
+
+[colors.indexed]
+
+[metadata]
+name = 'black_hole' 
